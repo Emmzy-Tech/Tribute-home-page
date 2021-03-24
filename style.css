@@ -28,7 +28,6 @@ nav ul.flex_container {
     font-size: 15px;
     align-items: center;
     justify-content: space-around;
-    background-color: red;
 }
 nav ul li.flex_item {
     width: 100px;
@@ -98,7 +97,7 @@ li {
       background-color: #fff;
       border-radius: 6px;
       box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.1);
-      width: 660px;
+      width: 890px;
     }
     footer {
       font-size: 18px;
